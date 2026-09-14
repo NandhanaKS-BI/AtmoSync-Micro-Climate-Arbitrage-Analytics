@@ -76,7 +76,7 @@ DA_Infotact_Internship_Project_Atmosync_Repo/
 │   ├── snapshots/
 │   ├── tests/
 │   ├── dbt_project.yml
-│
+│── Atmosync_project_report/
 ├── Dashboard/
 │
 ├── data/
